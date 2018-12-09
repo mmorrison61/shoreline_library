@@ -1,3 +1,3 @@
-var LibraryThingUsername = 'unsoluble';
-var LibraryThingAPIKey = '2337767339';
-var DestinyDiscoverID = '27293';
+var LibraryThingUsername = 'mmorrison61';
+var LibraryThingAPIKey = '201102243';
+var DestinyDiscoverID = '21900';
