@@ -1,1 +1,1 @@
-# gms-library
+# shoreline-library
